@@ -1,0 +1,15 @@
+# Data Manipulation
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Machine Learning & NLP
+scikit-learn>=1.2.0
+xgboost>=1.7.0
+vaderSentiment>=3.3.0
+scipy>=1.10.0          # Required for A/B Testing (Statistical functions)
+joblib>=1.2.0           # Required for saving/loading trained models
+
+# Visualization & App
+streamlit>=1.24.0
+matplotlib>=3.7.0
+seaborn>=0.12.0

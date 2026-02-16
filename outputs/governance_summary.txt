@@ -1,0 +1,3 @@
+Total Products Analyzed: 1465
+Inconsistent Discounts Found: 0
+Average Rating: 4.10

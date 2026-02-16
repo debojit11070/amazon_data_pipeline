@@ -1,0 +1,5 @@
+Test,Control Mean,Treatment Mean,Lift %,P-value,Significant,Winner
+Product Rating (Discount Impact),nan,4.063,+nan%,nan,❌,No significant difference
+Rating (Electronics vs Home),nan,4.082,+nan%,nan,❌,No significant difference
+Rating (Budget vs Premium),4.074,4.153,+1.93%,0.0002,✅,Treatment
+Rating (Popularity Impact),nan,4.166,+nan%,nan,❌,No significant difference
